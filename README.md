@@ -12,4 +12,4 @@ Following along with freeCodeCamp's _[Learn CSS Grid by Building a Magazine](htt
 
 #### Preview:
 
-<img src="./css-grid-magazine.png" />
+<img src="fcc-web-des-magazine/css-grid-magazine.png" alt="An image of an article styled to look like a print newspaper." />
